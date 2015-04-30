@@ -1,7 +1,6 @@
 #include "add.h"
 
-
-int main()
+int f()
 {
-	A a(5);
+	return 4;
 }

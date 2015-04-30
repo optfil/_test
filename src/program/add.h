@@ -1,11 +1,6 @@
 #ifndef ADD_H_INCLUDED
 #define ADD_H_INCLUDED
 
-class A
-{
-	int i;
-public:
-	A(int i = 0);
-};
+int f();
 
 #endif  // ADD_H_INCLUDED
